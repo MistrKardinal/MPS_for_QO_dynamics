@@ -1,0 +1,8 @@
+numpy
+scipy
+torch
+matplotlib
+tqdm
+ipython
+notebook
+ipykernel
